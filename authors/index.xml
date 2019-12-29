@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Joeri Nicolaes</title>
+    <link>https://gourie.github.io/authors/</link>
+      <atom:link href="https://gourie.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copyJoeriNicolaes2019</copyright>
+    <image>
+      <url>https://gourie.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://gourie.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://gourie.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gourie.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Joeri Nicolaes is a computer scientist at UCB Pharma focusing on computer vision tasks in the medical imaging domain. He is currently conducting research to apply machine learning techniques for detecting fractures in patient images.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

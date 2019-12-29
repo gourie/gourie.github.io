@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gourie.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gourie.github.io/tags/</loc>
+  </url>
+  
+</urlset>
