@@ -5,12 +5,28 @@
     <link>https://gourie.github.io/talk/</link>
       <atom:link href="https://gourie.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talksss</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 11:05:00 -0700</lastBuildDate>
     <image>
       <url>https://gourie.github.io/img/icon-192.png</url>
       <title>Talksss</title>
       <link>https://gourie.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Automated Detection of Vertebral Fractures in CT Using 3D Convolutional Neural Networks</title>
+      <link>https://gourie.github.io/talk/rsna2019/</link>
+      <pubDate>Sun, 01 Dec 2019 11:05:00 -0700</pubDate>
+      <guid>https://gourie.github.io/talk/rsna2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of vertebral fractures in CT using 3D Convolutional Neural Networks</title>
+      <link>https://gourie.github.io/talk/miccai_csi2019/</link>
+      <pubDate>Thu, 17 Oct 2019 09:30:00 +0600</pubDate>
+      <guid>https://gourie.github.io/talk/miccai_csi2019/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
