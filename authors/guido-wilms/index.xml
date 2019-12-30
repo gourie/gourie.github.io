@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Joeri Nicolaes</title>
-    <link>https://gourie.github.io/publication/</link>
-      <atom:link href="https://gourie.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Guido Wilms | Joeri Nicolaes</title>
+    <link>https://gourie.github.io/authors/guido-wilms/</link>
+      <atom:link href="https://gourie.github.io/authors/guido-wilms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guido Wilms</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gourie.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://gourie.github.io/publication/</link>
+      <title>Guido Wilms</title>
+      <link>https://gourie.github.io/authors/guido-wilms/</link>
     </image>
     
     <item>

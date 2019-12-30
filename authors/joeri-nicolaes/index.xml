@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Joeri Nicolaes</title>
-    <link>https://gourie.github.io/publication/</link>
-      <atom:link href="https://gourie.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Joeri Nicolaes</title>
+    <link>https://gourie.github.io/authors/joeri-nicolaes/</link>
+      <atom:link href="https://gourie.github.io/authors/joeri-nicolaes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joeri Nicolaes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gourie.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://gourie.github.io/publication/</link>
+      <title>Joeri Nicolaes</title>
+      <link>https://gourie.github.io/authors/joeri-nicolaes/</link>
     </image>
     
     <item>
