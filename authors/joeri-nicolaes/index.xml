@@ -5,7 +5,7 @@
     <link>https://gourie.github.io/authors/joeri-nicolaes/</link>
       <atom:link href="https://gourie.github.io/authors/joeri-nicolaes/index.xml" rel="self" type="application/rss+xml" />
     <description>Joeri Nicolaes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gourie.github.io/img/icon-192.png</url>
       <title>Joeri Nicolaes</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Detection of vertebral fractures in CT using 3D Convolutional Neural Networks</title>
       <link>https://gourie.github.io/publication/nicolaes-2019-detection/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://gourie.github.io/publication/nicolaes-2019-detection/</guid>
       <description></description>
     </item>
