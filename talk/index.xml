@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talksss | Joeri Nicolaes</title>
+    <title>Talks | Joeri Nicolaes</title>
     <link>https://gourie.github.io/talk/</link>
       <atom:link href="https://gourie.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talksss</description>
+    <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 11:05:00 -0700</lastBuildDate>
     <image>
       <url>https://gourie.github.io/img/icon-192.png</url>
-      <title>Talksss</title>
+      <title>Talks</title>
       <link>https://gourie.github.io/talk/</link>
     </image>
     
