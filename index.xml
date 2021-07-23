@@ -44,16 +44,6 @@ content. Although this format is static and one-way, I would love to start a con
     </item>
     
     <item>
-      <title>Learning from Partially Overlapping Labels: Image Segmentation under Annotation Shift </title>
-      <link>https://gourie.github.io/post/filbrandt_and_kamnitsas2021/</link>
-      <pubDate>Fri, 23 Jul 2021 19:10:39 +0200</pubDate>
-      <guid>https://gourie.github.io/post/filbrandt_and_kamnitsas2021/</guid>
-      <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Automated Detection of Vertebral Fractures in CT Using 3D Convolutional Neural Networks</title>
       <link>https://gourie.github.io/talk/ects2020/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
@@ -84,24 +74,6 @@ content. Although this format is static and one-way, I would love to start a con
       <pubDate>Thu, 17 Oct 2019 09:30:00 +0600</pubDate>
       <guid>https://gourie.github.io/talk/miccai_csi2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://gourie.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://gourie.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://gourie.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://gourie.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
-</description>
     </item>
     
     <item>

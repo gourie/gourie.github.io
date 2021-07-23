@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca2fff8b-43df-42ee-9bde-ca0ce35ba15b" name="Default" comment="" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="ca2fff8b-43df-42ee-9bde-ca0ce35ba15b" name="Default" comment="- readme updated&#10;- post added">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/cesar-libanati/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/cesar-libanati/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/david-robben/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/david-robben/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/dirk-vandermeulen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/dirk-vandermeulen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/guido-wilms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/guido-wilms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/joeri-nicolaes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/joeri-nicolaes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/marc-debois/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/marc-debois/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/steven-raeymaeckers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/steven-raeymaeckers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/nicolaes-2019-detection/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/nicolaes-2019-detection/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk/miccai_csi2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/miccai_csi2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk/mitclub_march2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/mitclub_march2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk/rsna2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/rsna2019/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Joeri Nicolaes &lt;joerinicolaes@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vjC1YElb3UKA6c5mQG5g4QD5R0" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -27,13 +63,17 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/gym_py3/bin/python3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <created>1515330190271</created>
@@ -41,11 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1515330190271</updated>
     </task>
+    <task id="LOCAL-00001" summary="- readme updated&#10;- post added">
+      <created>1627065949153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627065949153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- readme updated&#10;- post added" />
+    <option name="LAST_COMMIT_MESSAGE" value="- readme updated&#10;- post added" />
   </component>
   <component name="masterDetails">
     <states>

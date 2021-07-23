@@ -43,15 +43,5 @@ content. Although this format is static and one-way, I would love to start a con
 </description>
     </item>
     
-    <item>
-      <title>Learning from Partially Overlapping Labels: Image Segmentation under Annotation Shift </title>
-      <link>https://gourie.github.io/post/filbrandt_and_kamnitsas2021/</link>
-      <pubDate>Fri, 23 Jul 2021 19:10:39 +0200</pubDate>
-      <guid>https://gourie.github.io/post/filbrandt_and_kamnitsas2021/</guid>
-      <description>&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
