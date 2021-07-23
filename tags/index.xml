@@ -5,12 +5,28 @@
     <link>https://gourie.github.io/tags/</link>
       <atom:link href="https://gourie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joeri Nicolaes, 2021</copyright><lastBuildDate>Fri, 23 Jul 2021 19:37:52 +0200</lastBuildDate>
     <image>
       <url>https://gourie.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://gourie.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>general</title>
+      <link>https://gourie.github.io/tags/general/</link>
+      <pubDate>Fri, 23 Jul 2021 19:37:52 +0200</pubDate>
+      <guid>https://gourie.github.io/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>segmentation</title>
+      <link>https://gourie.github.io/tags/segmentation/</link>
+      <pubDate>Fri, 23 Jul 2021 19:10:39 +0200</pubDate>
+      <guid>https://gourie.github.io/tags/segmentation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
