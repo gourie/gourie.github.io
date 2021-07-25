@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca2fff8b-43df-42ee-9bde-ca0ce35ba15b" name="Default" comment="pages added">
+    <list default="true" id="ca2fff8b-43df-42ee-9bde-ca0ce35ba15b" name="Default" comment="    phone and twitter removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authors/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/authors/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/authors/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/ects2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/ects2020/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/miccai_csi2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/miccai_csi2019/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/mitclub_march2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/mitclub_march2018/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/rsna2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/rsna2019/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +76,22 @@
       <option name="project" value="LOCAL" />
       <updated>1627067451951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="    phone and twitter removed">
+      <created>1627070012815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627070012815</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- readme updated&#10;- post added" />
     <MESSAGE value="draft removed" />
     <MESSAGE value="pages added" />
-    <option name="LAST_COMMIT_MESSAGE" value="pages added" />
+    <MESSAGE value="    phone and twitter removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="    phone and twitter removed" />
   </component>
   <component name="masterDetails">
     <states>
